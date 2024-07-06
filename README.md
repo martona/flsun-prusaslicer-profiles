@@ -1,1 +1,1 @@
-# flsun-prusaslicer-profiles
+Download from Releases then start the Configuration Wizard in Prusa Slicer, and point at the .zip file in the Local Configuration Sources section.
